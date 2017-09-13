@@ -1,0 +1,16 @@
+{
+  "name": "testbot",
+  "version": "0.0.1",
+  "description": "A test Botpress bot",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-web": "1.x"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisa Williams",
+  "license": "Botpress Proprietary License"
+}
